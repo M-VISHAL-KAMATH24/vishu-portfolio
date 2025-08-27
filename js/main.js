@@ -129,9 +129,9 @@ function initTypingEffect() {
     if (!typingText) return;
     
     const texts = [
-        'Full Stack Developer',
+        'backend  Developer',
         'AI/ML Enthusiast',
-        'Flutter Developer',
+        'Youtuber',
         'Problem Solver',
         'Creative Thinker'
     ];

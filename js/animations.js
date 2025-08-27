@@ -86,7 +86,7 @@ function enhanceTypingEffect() {
   const texts = [
     "Profile Summary",
     "AI/ML Enthusiast",
-    "Mobile App Developer",
+    "backend developer",
     "Problem Solver",
     "Tech Innovator",
   ];
